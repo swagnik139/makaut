@@ -1,5 +1,5 @@
-''' This code uses opennotify api to display number of persons present in iss at present and their name,the current location(latitude,longitude) of iss and time at which it will 
-pass over my current location
+''' This code uses opennotify api to display number of persons present in iss at present and their name,the current location(latitude,longitude) of iss and time at which it
+will pass over my current location
 '''
 import requests
 import  json
